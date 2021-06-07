@@ -10,3 +10,5 @@ Animation rendering in a CSFML window.
 # OPTIONS
   - -d		print the description of all the animations.
   - -h		print the usage and quit.
+# Prerequisite
+  - Install SFML and CSFML.
